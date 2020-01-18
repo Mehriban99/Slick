@@ -1,0 +1,21 @@
+.slick-next {
+  z-index: 99;
+}
+.slick-next::before {
+  color: black;
+  font-size: 30px;
+}
+
+.slick-prev {
+  z-index: 99;
+}
+.slick-prev::before {
+  color: black;
+  font-size: 30px;
+}
+
+.slideBox {
+  margin-left: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
